@@ -1,0 +1,1 @@
+python pytorch_infer.py --img-mode 0 --video-path 0
